@@ -1,0 +1,11 @@
+<scenes>
+  <scene name="Courtroom"/>
+  <scene name="UniqueSaloon"/>
+  <scene name="Office"/>
+  <scene name="Kitchen"/>
+  <scene name="Wizards"/>
+  <scene name="Restaurant"/>
+  <scene name="Garage"/>
+  <scene name="Doors"/>
+  <!--<folder name="flairgpt-051925"/>-->
+</scenes>

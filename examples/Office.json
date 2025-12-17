@@ -1,0 +1,22 @@
+{
+  "name": "office",
+  "size": [5.0, 3.0, 4.0],
+  "objects":
+  [
+    { "name": "Desk", "type": "OBJECT", "size": [1.5, 1, 0.8], "position": [-0.3439, 0.5, 0.1228] },
+    { "name": "Computer Monitor", "type": "OBJECT", "size": [0.5, 0.3, 0.15], "position": [0.1419, 1.15, 0.3419] },
+    { "name": "Keyboard", "type": "OBJECT", "size": [0.45, 0.05, 0.15], "position": [-0.3339, 1.025, 0.3026] },
+    { "name": "Mouse", "type": "OBJECT", "size": [0.12, 0.03, 0.07], "position": [0.324, 1.015, 0.4878] },
+    { "name": "Chair", "type": "OBJECT", "size": [0.5, 1, 0.5], "position": [-0.8439, 0.5, 0.7728], "facing": "NORTH" },
+    { "name": "Guest Chair", "type": "OBJECT", "size": [0.5, 1, 0.5], "position": [-0.3862, 0.5, -0.5272], "facing": "SOUTH" },
+    { "name": "Guest Chair", "type": "OBJECT", "size": [0.5, 1, 0.5], "position": [0.1138, 0.5, -0.5272], "facing": "SOUTH" },
+    { "name": "Bookshelf", "type": "OBJECT", "size": [0.4, 2, 1], "position": [2.3, 1, 0.01986], "facing": "WEST" },
+    { "name": "Filing Cabinet", "type": "OBJECT", "size": [0.4, 1.5, 0.5], "position": [-2.3, 0.75, -0.5565], "facing": "EAST" },
+    { "name": "Trash Can", "type": "OBJECT", "size": [0.3, 0.5, 0.3], "position": [0.5561, 0.25, 0.3728] },
+    { "name": "Window", "type": "OBJECT", "size": [1.5, 1, 0.01], "position": [0.7532, 2, -1.995], "facing": "SOUTH" },
+    { "name": "Coat Rack", "type": "OBJECT", "size": [0.3, 1.7, 0.3], "position": [1.35, 0.85, 1.85], "facing": "NORTH" },
+    
+    { "name": "painted wall", "type": "WALL", "size": [5, 3.1, 0.1], "position": [0, 1.45, -2.05], "facing": "SOUTH" },
+    { "name": "carpet floor", "type": "FLOOR", "size": [5, 0.1, 4], "position": [0, -0.05, 0] }
+  ]
+}
